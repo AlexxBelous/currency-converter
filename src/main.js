@@ -5,6 +5,7 @@ import './main.scss'
 // Full Request URL: https://v6.exchangerate-api.com/v6/e61c827ba73d14a6e8d34006/latest/${currencyFirstEl.value}
 
 
+
 const currencyFirstEl = document.getElementById( 'currency-first' );
 const worthFirstEl = document.getElementById( 'worth-first' );
 
